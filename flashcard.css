@@ -1,0 +1,38 @@
+.table-bordered{
+    margin: auto;
+    width: 50%;
+}
+
+th, td{
+    padding: 10px;
+}
+
+.container{
+    width: 100%;
+    padding: 10px;
+}
+
+.card{
+    height: 10rem;
+    width: 25rem;
+    margin: 0 auto;
+    float: none;
+    padding-bottom: 4rem;
+    padding-top: 3rem;
+    background-color: lightgrey;
+    font-size: 2rem;
+}
+
+a{
+    outline: none;
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: black;
+}
+
+.space{
+    margin: 1rem;
+}
